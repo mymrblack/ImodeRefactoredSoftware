@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="test" key="programflash.hwplatform"/>
+	<item value="false" key="test-blankCheck"/>
+	<item value="false" key="test-verifyFlash"/>
+	<item value="Auto Detect" key="test-device"/>
+	<item value="qspi_single" key="test-flashType"/>
+	<item value="Local" key="test-target"/>
+	<item value="" key="test-imgFile"/>
+	<item value="" key="test-fsblFile"/>
+	<item value="" key="test-offSet"/>
+</section>

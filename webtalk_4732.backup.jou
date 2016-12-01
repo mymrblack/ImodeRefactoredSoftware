@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Nov 07 17:00:57 2016
+# Process ID: 4732
+# Current directory: F:/lynn.zheng/郑林芳/TDC-刘凯交接/project_Imode_final
+# Command line: wbtcv.exe -mode batch -source f:/lynn.zheng/myimode_v1_0_v1_0_project/myImode_v1_0_v1_0_project.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: F:/lynn.zheng/郑林芳/TDC-刘凯交接/project_Imode_final/webtalk.log
+# Journal file: F:/lynn.zheng/郑林芳/TDC-刘凯交接/project_Imode_final\webtalk.jou
+#-----------------------------------------------------------
+source f:/lynn.zheng/myimode_v1_0_v1_0_project/myImode_v1_0_v1_0_project.hw/webtalk/labtool_webtalk.tcl -notrace

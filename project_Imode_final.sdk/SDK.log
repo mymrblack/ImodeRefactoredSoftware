@@ -1,0 +1,1674 @@
+17:56:33 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+17:56:42 INFO  : XSDB server has started successfully.
+17:57:23 INFO  : Project 'test' created. You can now create BSPs and application projects targeting this hardware platform.
+17:58:43 ERROR : Failed to closesw "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test1_bsp/system.mss"
+Reason: Cannot close sw design 'H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test1_bsp/system.mss'.
+Design is not opened in the current session.
+
+
+17:59:31 INFO  : Saving repository preferences.
+17:59:31 INFO  : Reading in cores from local repositories: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+17:59:31 INFO  : Cleaning BSP projects in the workspace.
+18:02:05 INFO  : Refreshed build settings on project test1
+18:06:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:06:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+18:06:44 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+18:06:58 INFO  : ps7_init is completed.
+18:06:58 INFO  : ps7_post_config is completed.
+18:06:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:09:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:09:00 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+18:09:02 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+18:09:08 INFO  : ps7_init is completed.
+18:09:08 INFO  : ps7_post_config is completed.
+18:09:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:15:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:15:09 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+18:15:12 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+18:15:16 INFO  : ps7_init is completed.
+18:15:16 INFO  : ps7_post_config is completed.
+18:15:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:21:48 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:30:42 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+20:30:49 INFO  : XSDB server has started successfully.
+20:30:49 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+20:33:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:33:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:33:42 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:34:04 INFO  : ps7_init is completed.
+20:34:04 INFO  : ps7_post_config is completed.
+20:34:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:36:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:36:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:36:50 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:36:55 INFO  : ps7_init is completed.
+20:36:55 INFO  : ps7_post_config is completed.
+20:36:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:58:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:58:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:58:37 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:58:40 INFO  : ps7_init is completed.
+20:58:40 INFO  : ps7_post_config is completed.
+20:58:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:00:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:00:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:00:33 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:00:44 INFO  : ps7_init is completed.
+21:00:44 INFO  : ps7_post_config is completed.
+21:00:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:18:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:18:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:18:36 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:18:41 INFO  : ps7_init is completed.
+21:18:42 INFO  : ps7_post_config is completed.
+21:18:42 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:44:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:44:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:44:04 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:46:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:46:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:46:08 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:46:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:46:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:46:33 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:46:39 INFO  : ps7_init is completed.
+21:46:39 INFO  : ps7_post_config is completed.
+21:46:40 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:47:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:47:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:47:25 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:47:39 INFO  : ps7_init is completed.
+21:47:39 INFO  : ps7_post_config is completed.
+21:47:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:56:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:56:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:56:17 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:56:23 INFO  : ps7_init is completed.
+21:56:23 INFO  : ps7_post_config is completed.
+21:56:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:56:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+21:56:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:57:12 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:57:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:57:18 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:57:22 INFO  : ps7_init is completed.
+21:57:22 INFO  : ps7_post_config is completed.
+21:57:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:11:32 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:21:45 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+16:21:48 INFO  : XSDB server has started successfully.
+16:21:49 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+16:21:54 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1477383632195,  Project:1476784456122
+16:21:54 INFO  : Project test's source hardware specification located at H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+16:21:56 INFO  : Copied contents of H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf into \test\system.hdf.
+16:22:01 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+16:22:06 INFO  : 
+16:22:07 INFO  : Updating hardware inferred compiler options for test1.
+16:22:07 INFO  : Clearing existing target manager status.
+16:23:22 INFO  : Saving repository preferences.
+16:23:45 INFO  : Refreshed build settings on project test1
+16:24:31 INFO  : Refreshed build settings on project test1
+16:27:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:27:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:27:53 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:28:01 INFO  : ps7_init is completed.
+16:28:01 INFO  : ps7_post_config is completed.
+16:28:01 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:29:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:29:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:29:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:29:33 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:29:41 INFO  : ps7_init is completed.
+16:29:41 INFO  : ps7_post_config is completed.
+16:29:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:16:30 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1477385728951,  Project:1477383632195
+17:16:30 INFO  : Project test's source hardware specification located at H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+17:16:31 INFO  : Copied contents of H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf into \test\system.hdf.
+17:16:36 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+17:16:37 INFO  : 
+17:16:38 INFO  : Updating hardware inferred compiler options for test1.
+17:16:38 INFO  : Clearing existing target manager status.
+17:16:38 INFO  : Closing and re-opening the MSS file of ther project test1_bsp
+17:16:39 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+17:16:39 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+17:20:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:20:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:20:08 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:20:45 INFO  : ps7_init is completed.
+17:20:45 INFO  : ps7_post_config is completed.
+17:20:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:22:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:22:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:22:36 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:22:45 INFO  : ps7_init is completed.
+17:22:45 INFO  : ps7_post_config is completed.
+17:22:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:33:55 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1477388007069,  Project:1477385728951
+17:33:55 INFO  : Project test's source hardware specification located at H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+17:33:57 INFO  : Copied contents of H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf into \test\system.hdf.
+17:34:03 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+17:34:04 INFO  : 
+17:34:05 INFO  : Updating hardware inferred compiler options for test1.
+17:34:05 INFO  : Clearing existing target manager status.
+17:34:05 INFO  : Closing and re-opening the MSS file of ther project test1_bsp
+17:34:06 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+17:34:06 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+17:34:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:35:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:35:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:35:12 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:35:14 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:35:27 INFO  : ps7_init is completed.
+17:35:27 INFO  : ps7_post_config is completed.
+17:35:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:39:20 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:39:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:39:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:39:28 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:39:44 INFO  : ps7_init is completed.
+17:39:44 INFO  : ps7_post_config is completed.
+17:39:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:41:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:41:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:41:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:41:25 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:41:28 INFO  : ps7_init is completed.
+17:41:28 INFO  : ps7_post_config is completed.
+17:41:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:43:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:43:09 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:43:12 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:43:16 INFO  : ps7_init is completed.
+17:43:16 INFO  : ps7_post_config is completed.
+17:43:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:08:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:09:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:09:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:09:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:09:21 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:10:05 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+14:10:05 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+14:10:12 INFO  : ps7_init is completed.
+14:10:12 INFO  : ps7_post_config is completed.
+14:10:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:13:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:13:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:13:49 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:14:17 INFO  : ps7_init is completed.
+14:14:17 INFO  : ps7_post_config is completed.
+14:14:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:20:07 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:20:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:20:13 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:20:18 INFO  : ps7_init is completed.
+14:20:18 INFO  : ps7_post_config is completed.
+14:20:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:46:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:46:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:46:09 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:46:11 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:46:16 INFO  : ps7_init is completed.
+14:46:16 INFO  : ps7_post_config is completed.
+14:46:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:46:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:46:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:46:41 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:46:48 INFO  : ps7_init is completed.
+14:46:49 INFO  : ps7_post_config is completed.
+14:46:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:57:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:57:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:57:50 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:58:26 INFO  : ps7_init is completed.
+14:58:26 INFO  : ps7_post_config is completed.
+14:58:26 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:00:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:00:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:01:01 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:01:10 INFO  : ps7_init is completed.
+15:01:10 INFO  : ps7_post_config is completed.
+15:01:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:15:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:15:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:15:28 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:15:53 INFO  : ps7_init is completed.
+15:15:53 INFO  : ps7_post_config is completed.
+15:15:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:17:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:17:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:17:09 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:17:22 INFO  : ps7_init is completed.
+15:17:22 INFO  : ps7_post_config is completed.
+15:17:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:17:32 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:17:42 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:17:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:18:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:18:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:18:48 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:18:52 INFO  : ps7_init is completed.
+15:18:52 INFO  : ps7_post_config is completed.
+15:18:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:19:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:19:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:19:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:20:01 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:20:09 INFO  : ps7_init is completed.
+15:20:10 INFO  : ps7_post_config is completed.
+15:20:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:26:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:26:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:26:42 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:26:45 INFO  : ps7_init is completed.
+15:26:45 INFO  : ps7_post_config is completed.
+15:26:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:39:20 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:39:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:39:26 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:39:32 INFO  : ps7_init is completed.
+15:39:32 INFO  : ps7_post_config is completed.
+15:39:32 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:40:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:40:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:40:56 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:41:12 INFO  : ps7_init is completed.
+15:41:12 INFO  : ps7_post_config is completed.
+15:41:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:26:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:26:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:26:58 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:27:35 INFO  : ps7_init is completed.
+17:27:35 INFO  : ps7_post_config is completed.
+17:27:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:28:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:28:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:28:53 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:29:04 INFO  : ps7_init is completed.
+17:29:04 INFO  : ps7_post_config is completed.
+17:29:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:31:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:31:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:31:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:31:16 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:31:38 INFO  : ps7_init is completed.
+17:31:38 INFO  : ps7_post_config is completed.
+17:31:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:32:52 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:32:52 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:32:55 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:32:59 INFO  : ps7_init is completed.
+17:32:59 INFO  : ps7_post_config is completed.
+17:32:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:36:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:36:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:36:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:36:14 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:37:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:37:27 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+17:37:27 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+17:37:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:37:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:37:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:37:51 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:38:11 INFO  : ps7_init is completed.
+17:38:11 INFO  : ps7_post_config is completed.
+17:38:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:39:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:39:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:39:20 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:39:30 INFO  : ps7_init is completed.
+17:39:30 INFO  : ps7_post_config is completed.
+17:39:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:46:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:46:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+19:46:05 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+19:46:24 INFO  : ps7_init is completed.
+19:46:25 INFO  : ps7_post_config is completed.
+19:46:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:56:24 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:56:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:56:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+19:56:47 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+19:56:52 INFO  : ps7_init is completed.
+19:56:52 INFO  : ps7_post_config is completed.
+19:56:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:57:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:57:46 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+19:57:48 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+19:57:52 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+    Failed to claim JTAG Device 1 for debug. Check if it's
+    in use by other client for debug
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(TM.java:484)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:503)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+19:58:12 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:58:12 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+19:58:15 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+19:58:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:59:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:59:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+19:59:27 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+19:59:34 INFO  : ps7_init is completed.
+19:59:34 INFO  : ps7_post_config is completed.
+19:59:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:00:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:01:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:01:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:01:07 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:01:32 INFO  : ps7_init is completed.
+20:01:33 INFO  : ps7_post_config is completed.
+20:01:33 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:02:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:02:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:02:51 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:03:29 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:03:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:03:32 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:03:37 INFO  : ps7_init is completed.
+20:03:37 INFO  : ps7_post_config is completed.
+20:03:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:06:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:06:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:06:22 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:07:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:07:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:07:07 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:07:18 INFO  : ps7_init is completed.
+20:07:18 INFO  : ps7_post_config is completed.
+20:07:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:10:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:10:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:10:29 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:10:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:10:31 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:10:54 INFO  : ps7_init is completed.
+20:10:54 INFO  : ps7_post_config is completed.
+20:10:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:12:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:12:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:12:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:12:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:12:55 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:13:19 INFO  : ps7_init is completed.
+20:13:19 INFO  : ps7_post_config is completed.
+20:13:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:32:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:32:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:32:55 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:32:59 INFO  : ps7_init is completed.
+21:32:59 INFO  : ps7_post_config is completed.
+21:32:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:34:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:34:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:34:41 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:34:57 INFO  : ps7_init is completed.
+21:34:57 INFO  : ps7_post_config is completed.
+21:34:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:53:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:53:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:53:53 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:54:00 INFO  : ps7_init is completed.
+21:54:00 INFO  : ps7_post_config is completed.
+21:54:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:16:52 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:16:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+22:16:58 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+22:17:08 INFO  : ps7_init is completed.
+22:17:08 INFO  : ps7_post_config is completed.
+22:17:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+22:22:29 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:22:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+22:22:34 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+22:22:37 INFO  : ps7_init is completed.
+22:22:37 INFO  : ps7_post_config is completed.
+22:22:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:39:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:39:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+11:40:01 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+11:40:10 INFO  : ps7_init is completed.
+11:40:10 INFO  : ps7_post_config is completed.
+11:40:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:57:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:57:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+11:57:47 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+11:57:52 INFO  : ps7_init is completed.
+11:57:52 INFO  : ps7_post_config is completed.
+11:57:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:59:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:59:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+11:59:42 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+11:59:49 INFO  : ps7_init is completed.
+11:59:49 INFO  : ps7_post_config is completed.
+11:59:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:13:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:13:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:13:38 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:13:43 INFO  : ps7_init is completed.
+12:13:43 INFO  : ps7_post_config is completed.
+12:13:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:17:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:17:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:17:10 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:17:22 INFO  : ps7_init is completed.
+12:17:22 INFO  : ps7_post_config is completed.
+12:17:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:31:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:31:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:31:37 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:32:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:32:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:32:59 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:33:09 INFO  : ps7_init is completed.
+12:33:09 INFO  : ps7_post_config is completed.
+12:33:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:45:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:45:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:45:19 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:45:30 INFO  : ps7_init is completed.
+12:45:30 INFO  : ps7_post_config is completed.
+12:45:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:52:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:52:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:52:30 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:52:33 INFO  : ps7_init is completed.
+12:52:33 INFO  : ps7_post_config is completed.
+12:52:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:52:47 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:52:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:56:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:56:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:56:59 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:57:03 INFO  : ps7_init is completed.
+12:57:04 INFO  : ps7_post_config is completed.
+12:57:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:59:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:59:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:59:26 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:59:32 INFO  : ps7_init is completed.
+12:59:32 INFO  : ps7_post_config is completed.
+12:59:32 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:02:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:02:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+13:02:33 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+13:02:43 INFO  : ps7_init is completed.
+13:02:43 INFO  : ps7_post_config is completed.
+13:02:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:37:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:37:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+13:37:13 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+13:37:21 INFO  : ps7_init is completed.
+13:37:21 INFO  : ps7_post_config is completed.
+13:37:21 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:43:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:43:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+13:43:51 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+13:44:03 INFO  : ps7_init is completed.
+13:44:03 INFO  : ps7_post_config is completed.
+13:44:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:01:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:01:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:01:47 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:02:20 INFO  : ps7_init is completed.
+14:02:20 INFO  : ps7_post_config is completed.
+14:02:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:04:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:04:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:04:48 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:05:22 INFO  : ps7_init is completed.
+14:05:22 INFO  : ps7_post_config is completed.
+14:05:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:07:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:07:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:07:57 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:08:13 INFO  : ps7_init is completed.
+14:08:13 INFO  : ps7_post_config is completed.
+14:08:13 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:13:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:14:00 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:14:02 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:14:16 INFO  : ps7_init is completed.
+14:14:16 INFO  : ps7_post_config is completed.
+14:14:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:15:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:21:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:21:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:21:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:21:28 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:21:38 INFO  : ps7_init is completed.
+14:21:38 INFO  : ps7_post_config is completed.
+14:21:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:23:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:23:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:23:49 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:24:00 INFO  : ps7_init is completed.
+14:24:00 INFO  : ps7_post_config is completed.
+14:24:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:27:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:27:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:27:17 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:27:28 INFO  : ps7_init is completed.
+14:27:28 INFO  : ps7_post_config is completed.
+14:27:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:34:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:34:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:34:55 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:35:12 INFO  : ps7_init is completed.
+14:35:13 INFO  : ps7_post_config is completed.
+14:35:13 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:48:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:48:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:48:37 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:48:41 INFO  : ps7_init is completed.
+14:48:41 INFO  : ps7_post_config is completed.
+14:48:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:50:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:50:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:50:40 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:50:48 INFO  : ps7_init is completed.
+14:50:48 INFO  : ps7_post_config is completed.
+14:50:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:54:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:54:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:54:29 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:54:41 INFO  : ps7_init is completed.
+14:54:41 INFO  : ps7_post_config is completed.
+14:54:42 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:58:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:58:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:58:34 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:58:38 INFO  : ps7_init is completed.
+14:58:38 INFO  : ps7_post_config is completed.
+14:58:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:14:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:14:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:14:42 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:14:57 INFO  : ps7_init is completed.
+15:14:57 INFO  : ps7_post_config is completed.
+15:14:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:26:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:26:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:26:38 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:26:49 INFO  : ps7_init is completed.
+15:26:49 INFO  : ps7_post_config is completed.
+15:26:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:05:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:05:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:05:54 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:06:10 INFO  : ps7_init is completed.
+09:06:10 INFO  : ps7_post_config is completed.
+09:06:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:09:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:09:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:09:56 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:09:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:10:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:10:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:11:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:11:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:11:36 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:11:49 INFO  : ps7_init is completed.
+09:11:49 INFO  : ps7_post_config is completed.
+09:11:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:14:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:14:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:14:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:14:52 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:15:00 INFO  : ps7_init is completed.
+09:15:00 INFO  : ps7_post_config is completed.
+09:15:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:17:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:17:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:17:25 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:17:28 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:17:37 INFO  : ps7_init is completed.
+09:17:38 INFO  : ps7_post_config is completed.
+09:17:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:19:02 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+09:19:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:21:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:21:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:21:20 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:21:36 INFO  : ps7_init is completed.
+09:21:36 INFO  : ps7_post_config is completed.
+09:21:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:25:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:25:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:25:59 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:26:03 INFO  : ps7_init is completed.
+09:26:03 INFO  : ps7_post_config is completed.
+09:26:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:31:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:31:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:32:00 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:32:02 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:32:16 INFO  : ps7_init is completed.
+09:32:16 INFO  : ps7_post_config is completed.
+09:32:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:39:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:39:59 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:40:02 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:40:29 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:40:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:40:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:40:39 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:40:49 INFO  : ps7_init is completed.
+09:40:49 INFO  : ps7_post_config is completed.
+09:40:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:41:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:41:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:41:42 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:42:03 INFO  : ps7_init is completed.
+09:42:03 INFO  : ps7_post_config is completed.
+09:42:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:24:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:24:08 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:24:10 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:24:14 INFO  : ps7_init is completed.
+10:24:15 INFO  : ps7_post_config is completed.
+10:24:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:25:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:25:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:25:37 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:25:40 INFO  : ps7_init is completed.
+10:25:40 INFO  : ps7_post_config is completed.
+10:25:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:34:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:34:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:34:35 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:34:44 INFO  : ps7_init is completed.
+10:34:44 INFO  : ps7_post_config is completed.
+10:34:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:38:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:38:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+13:38:39 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+13:39:02 INFO  : ps7_init is completed.
+13:39:02 INFO  : ps7_post_config is completed.
+13:39:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:53:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:53:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+13:53:06 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+13:53:15 INFO  : ps7_init is completed.
+13:53:15 INFO  : ps7_post_config is completed.
+13:53:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:00:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:00:12 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:00:14 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:00:20 INFO  : ps7_init is completed.
+14:00:20 INFO  : ps7_post_config is completed.
+14:00:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:23:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:23:09 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:23:12 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:23:16 INFO  : ps7_init is completed.
+14:23:16 INFO  : ps7_post_config is completed.
+14:23:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:30:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:31:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:31:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:31:05 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:31:11 INFO  : ps7_init is completed.
+14:31:11 INFO  : ps7_post_config is completed.
+14:31:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:31:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:32:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:33:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:34:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:34:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:34:47 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:35:00 INFO  : ps7_init is completed.
+14:35:00 INFO  : ps7_post_config is completed.
+14:35:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:37:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:38:01 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:39:38 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+14:39:41 INFO  : XSDB server has started successfully.
+14:39:41 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+14:40:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:41:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:41:22 INFO  : ps7_init is completed.
+14:41:22 INFO  : ps7_post_config is completed.
+14:41:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:41:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:41:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:41:37 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:41:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:43:17 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:43:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:44:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:46:28 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:46:32 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:48:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:49:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:49:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:50:10 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error while running ps7_init method.
+No Target with ID 64 in the System
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.run_ps7_init(TM.java:1089)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:514)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+14:51:02 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+14:51:02 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 64"
+14:51:02 ERROR : Disconnect target failed.
+14:51:02 ERROR : Disconnect target failed.No Target with ID 64 in the System
+
+
+14:51:12 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error while running ps7_init method.
+No Target with ID 64 in the System
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.run_ps7_init(TM.java:1089)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:514)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+14:51:12 ERROR : Disconnect target failed.No Target with ID 64 in the System
+
+
+14:51:17 ERROR : Disconnect target failed.No Target with ID 64 in the System
+
+
+14:51:17 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No Target with ID 64 in the System
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+14:51:17 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:51:37 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+14:51:39 INFO  : XSDB server has started successfully.
+14:51:39 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+14:53:26 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:54:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:58:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:01:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:04:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:04:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:04:56 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:05:19 INFO  : ps7_init is completed.
+15:05:20 INFO  : ps7_post_config is completed.
+15:05:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:40:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:40:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+15:40:24 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+15:40:50 INFO  : ps7_init is completed.
+15:40:50 INFO  : ps7_post_config is completed.
+15:40:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:16:29 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:16:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:16:32 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:16:43 INFO  : ps7_init is completed.
+16:16:43 INFO  : ps7_post_config is completed.
+16:16:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:21:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:21:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:21:59 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:22:04 INFO  : ps7_init is completed.
+16:22:04 INFO  : ps7_post_config is completed.
+16:22:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:32:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:32:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:32:15 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:33:14 INFO  : ps7_init is completed.
+16:33:14 INFO  : ps7_post_config is completed.
+16:33:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:59:50 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:13:50 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+14:13:55 INFO  : XSDB server has started successfully.
+14:13:55 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+14:14:00 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1477894300185,  Project:1477388007069
+14:14:00 INFO  : Project test's source hardware specification located at H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+14:14:40 INFO  : Copied contents of H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf into \test\system.hdf.
+14:14:45 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+14:14:51 INFO  : 
+14:14:53 INFO  : 
+14:14:54 INFO  : Updating hardware inferred compiler options for ck.
+14:14:55 INFO  : Updating hardware inferred compiler options for test1.
+14:14:55 INFO  : Clearing existing target manager status.
+14:16:53 INFO  : Refreshed build settings on project test1
+14:18:12 INFO  : Refreshed build settings on project test1
+14:26:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:26:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:26:24 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:26:37 INFO  : ps7_init is completed.
+14:26:37 INFO  : ps7_post_config is completed.
+14:26:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:32:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:32:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:32:04 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:32:18 INFO  : ps7_init is completed.
+14:32:18 INFO  : ps7_post_config is completed.
+14:32:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:37:47 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:56:23 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+16:56:26 INFO  : XSDB server has started successfully.
+16:56:28 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+16:56:35 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1478241612455,  Project:1477894300185
+16:56:35 INFO  : Project test's source hardware specification located at H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+16:56:36 INFO  : Copied contents of H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\design_1_wrapper.hdf into \test\system.hdf.
+16:56:41 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+16:56:50 INFO  : 
+16:56:51 INFO  : Updating hardware inferred compiler options for test1.
+16:56:51 INFO  : Clearing existing target manager status.
+16:57:49 INFO  : Refreshed build settings on project test1
+16:59:23 INFO  : Refreshed build settings on project test1
+17:00:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:00:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:00:58 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:01:47 INFO  : ps7_init is completed.
+17:01:47 INFO  : ps7_post_config is completed.
+17:01:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:08:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:08:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:08:58 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:09:35 INFO  : ps7_init is completed.
+17:09:35 INFO  : ps7_post_config is completed.
+17:09:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:09:43 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:09:54 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:09:56 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:13:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:13:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:13:49 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:13:58 INFO  : ps7_init is completed.
+17:13:58 INFO  : ps7_post_config is completed.
+17:13:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:16:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:16:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+17:16:22 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+17:16:34 INFO  : ps7_init is completed.
+17:16:34 INFO  : ps7_post_config is completed.
+17:16:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+08:48:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:48:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:48:44 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:49:03 INFO  : ps7_init is completed.
+08:49:03 INFO  : ps7_post_config is completed.
+08:49:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:52:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:53:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:53:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:53:29 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:53:38 INFO  : ps7_init is completed.
+09:53:38 INFO  : ps7_post_config is completed.
+09:53:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+08:54:26 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+08:54:26 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not powered-on
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+08:55:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:55:00 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:55:02 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:55:05 INFO  : ps7_init is completed.
+08:55:05 INFO  : ps7_post_config is completed.
+08:55:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:23:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:23:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:23:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:23:56 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:24:17 INFO  : ps7_init is completed.
+09:24:18 INFO  : ps7_post_config is completed.
+09:24:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:04:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:04:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:04:39 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:04:49 INFO  : ps7_init is completed.
+10:04:49 INFO  : ps7_post_config is completed.
+10:04:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:21:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:21:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:21:22 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:21:32 INFO  : ps7_init is completed.
+10:21:32 INFO  : ps7_post_config is completed.
+10:21:33 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:43:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:43:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:43:49 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:43:56 INFO  : ps7_init is completed.
+10:43:56 INFO  : ps7_post_config is completed.
+10:43:56 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:51:50 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:59:30 INFO  : Launching XSDB server: xsdb.bat -interactive H:\MyXilinx\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+10:59:33 INFO  : XSDB server has started successfully.
+10:59:35 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+11:00:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:00:10 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+11:00:13 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+11:00:22 INFO  : ps7_init is completed.
+11:00:22 INFO  : ps7_post_config is completed.
+11:00:22 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:09:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:09:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+13:09:34 INFO  : FPGA configured successfully with bitstream "H:/MyXilinx/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+13:09:44 INFO  : ps7_init is completed.
+13:09:44 INFO  : ps7_post_config is completed.
+13:09:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:39:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:11:10 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+14:11:16 INFO  : XSDB server has started successfully.
+14:11:18 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+14:11:18 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+14:14:18 INFO  : Saving repository preferences.
+14:14:18 INFO  : Reading in cores from local repositories: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+14:14:18 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+14:14:18 INFO  : Cleaning BSP projects in the workspace.
+14:17:05 INFO  : Saving hardware specification preferences.
+14:17:05 INFO  : Starting the monitor for source hardware specification changes.
+14:17:05 INFO  : Saving repository preferences.
+14:17:05 INFO  : Reading in cores from local repositories: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+14:17:05 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+14:17:05 INFO  : Cleaning BSP projects in the workspace.
+14:17:06 INFO  : Saving BSP preferences.
+14:17:06 INFO  : Saving flash programming preferences.
+14:25:56 ERROR : Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+14:25:56 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: Connection to Board Failed
+
+
+    Unknown Error Occured
+    Cable is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:16:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:16:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:16:07 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:16:23 INFO  : ps7_init is completed.
+16:16:23 INFO  : ps7_post_config is completed.
+16:16:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:16:58 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:17:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:26:35 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:26:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:26:55 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:26:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:27:15 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:27:16 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:28:23 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:28:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:28:37 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:28:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:34:41 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:34:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:35:56 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:35:58 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:36:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:36:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:36:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:36:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+16:36:43 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+16:37:02 INFO  : ps7_init is completed.
+16:37:03 INFO  : ps7_post_config is completed.
+16:37:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:37:27 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:37:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:37:40 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+16:39:20 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+08:43:07 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+08:43:16 INFO  : XSDB server has started successfully.
+08:43:19 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+08:43:19 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+08:47:12 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+08:47:27 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+    Failed to claim JTAG Device 1 for debug. Check if it's
+    in use by other client for debug
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(TM.java:484)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:503)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+08:47:54 INFO  : ps7_init is completed.
+08:47:54 INFO  : ps7_post_config is completed.
+08:47:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+08:48:00 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:48:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:48:05 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:48:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+08:48:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+08:48:21 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Failed to download ELF file
+
+
+    Could not stop the processor after reset
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+08:50:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:50:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:50:23 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:51:04 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:51:04 INFO  : 'fpga -state' command is executed.
+08:51:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:51:05 INFO  : Jtag cable 'Digilent Zed 210248686573' is selected.
+08:51:05 INFO  : 'jtag frequency' command is executed.
+08:51:05 INFO  : Sourcing of 'F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/ps7_init.tcl' is done.
+08:51:05 INFO  : 'targets -set -filter {name =~"APU" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0' command is executed.
+08:51:05 INFO  : Hardware design information is loaded from 'F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/system.hdf'.
+08:51:05 INFO  : 'targets -set -filter {name =~"APU" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0' command is executed.
+08:51:05 INFO  : 'stop' command is executed.
+08:51:06 INFO  : 'ps7_init' command is executed.
+08:51:06 INFO  : 'ps7_post_config' command is executed.
+08:51:06 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+08:51:06 INFO  : Processor reset is completed for 'ps7_cortexa9_0'.
+08:51:07 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+08:51:07 INFO  : The application 'F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test1/Debug/test1.elf' is downloaded to processor 'ps7_cortexa9_0'.
+08:51:07 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+source F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/ps7_init.tcl
+targets -set -filter {name =~"APU" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0
+loadhw F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/system.hdf
+targets -set -filter {name =~"APU" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0
+stop
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0
+rst -processor
+targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0
+dow F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test1/Debug/test1.elf
+----------------End of Script----------------
+
+08:51:07 INFO  : Memory regions updated for context APU
+08:51:08 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+08:51:08 INFO  : 'con' command is executed.
+08:51:08 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "ARM*#0" && jtag_cable_name =~ "Digilent Zed 210248686573"} -index 0
+con
+----------------End of Script----------------
+
+08:51:08 INFO  : Launch script is exported to file 'F:\lynn.zheng\vivado_learing\project_Imode_final\project_Imode_final.sdk\.sdk\launch_scripts\xilinx_c-c++_application_(system_debugger)\system_debugger_on_local_test1.elf.tcl'
+08:51:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:51:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:51:18 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:51:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:51:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:51:57 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:52:27 INFO  : Disconnected from the channel tcfchan#1.
+08:52:33 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+08:53:49 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+08:53:56 INFO  : XSDB server has started successfully.
+08:53:57 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+08:53:57 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+08:54:07 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:54:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:54:10 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:54:35 INFO  : ps7_init is completed.
+08:54:35 INFO  : ps7_post_config is completed.
+08:54:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+08:56:09 INFO  : ps7_init is completed.
+08:56:09 INFO  : ps7_post_config is completed.
+08:56:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+08:56:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:56:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+08:56:22 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+08:56:25 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+08:56:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:03:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:03:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:03:20 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:03:27 INFO  : ps7_init is completed.
+09:03:28 INFO  : ps7_post_config is completed.
+09:03:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:08:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:08:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:08:17 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:08:24 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+09:08:34 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Error in Resetting Target
+
+    Could not stop the processor after reset
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:534)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+09:08:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:08:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:08:46 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:08:53 INFO  : ps7_init is completed.
+09:08:54 INFO  : ps7_post_config is completed.
+09:08:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:09:41 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:18:20 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+10:18:23 INFO  : XSDB server has started successfully.
+10:18:23 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+10:18:23 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+10:19:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:19:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+10:19:33 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/finished/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+10:20:43 INFO  : ps7_init is completed.
+10:20:44 INFO  : ps7_post_config is completed.
+10:20:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:21:41 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:24:19 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\project_Imode_final\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+10:24:22 INFO  : XSDB server has started successfully.
+10:24:22 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+10:24:22 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+10:28:30 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+10:28:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:34:26 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:34:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:35:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:35:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:42:34 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:46:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:51:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:52:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:55:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:56:47 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:56:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:59:36 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:59:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:01:00 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+11:01:01 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:04:14 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+    Failed to claim JTAG Device 1 for debug. Check if it's
+    in use by other client for debug
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(TM.java:484)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:503)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+11:04:21 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:05:12 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:07:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:11:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:42:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:42:10 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+12:42:12 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/finished/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+12:43:08 INFO  : ps7_init is completed.
+12:43:08 INFO  : ps7_post_config is completed.
+12:43:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:47:44 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:51:09 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:51:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:57:39 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:57:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:07:37 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:07:41 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:13:39 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:13:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:15:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:36:03 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:36:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:05:25 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:05:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:06:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:06:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:06:43 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/finished/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:06:49 INFO  : ps7_init is completed.
+14:06:49 INFO  : ps7_post_config is completed.
+14:06:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:18:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:18:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:18:57 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/finished/project_Imode_final/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:19:04 INFO  : ps7_init is completed.
+14:19:04 INFO  : ps7_post_config is completed.
+14:19:05 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:20:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:22:55 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:27:01 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:27:58 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:28:00 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:30:31 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:35:25 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:35:38 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:37:39 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:39:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:40:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:42:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:44:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:47:25 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:47:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:50:29 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:50:47 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:50:49 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:53:47 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+14:53:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:56:34 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+    Failed to claim JTAG Device 1 for debug. Check if it's
+    in use by other client for debug
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(TM.java:484)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:503)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+14:56:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:57:20 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:01:04 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:06:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:09:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:15:33 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:15:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:18:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:19:46 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:19:48 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:21:45 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:36:56 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:43:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:47:35 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:49:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:51:52 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:51:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:00:35 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:15:54 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+09:15:56 INFO  : XSDB server has started successfully.
+09:15:56 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+09:15:56 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+09:15:56 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+09:16:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:16:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:16:51 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:17:08 INFO  : ps7_init is completed.
+09:17:08 INFO  : ps7_post_config is completed.
+09:17:08 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:36:48 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+11:00:26 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+11:00:28 INFO  : XSDB server has started successfully.
+11:00:28 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+11:00:28 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+11:00:28 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+11:00:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:00:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+11:00:41 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+11:00:50 INFO  : ps7_init is completed.
+11:00:50 INFO  : ps7_post_config is completed.
+11:00:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:53:33 ERROR : Unexpected error while fetching XMD's response: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.read(BufferedReader.java:182)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess$CommandResultsReader.run(XMDJSONProcess.java:332)
+	at java.lang.Thread.run(Thread.java:745)
+14:53:33 ERROR : Zero sized response read from XMD. This indicates a communication error or a programming error.
+20:39:04 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+20:39:10 INFO  : XSDB server has started successfully.
+20:39:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:39:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:39:40 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:49:44 ERROR : Unexpected error while issuing command {"command": "xfpga_isconfigured -cable type xilinx_tcf url TCP:127.0.0.1:3121 "} to XMD: java.net.SocketException: Connection reset by peer: socket write error
+20:49:44 ERROR : Checking FPGA configuration failed..
+20:49:44 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+20:49:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:49:59 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:50:01 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:50:10 ERROR : Unexpected error while issuing command {"command": "xfpga_isconfigured -cable type xilinx_tcf url TCP:127.0.0.1:3121 "} to XMD: java.net.SocketException: Connection reset by peer: socket write error
+20:50:10 ERROR : Checking FPGA configuration failed..
+20:50:10 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+20:51:28 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+20:51:31 INFO  : XSDB server has started successfully.
+20:51:35 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+20:51:35 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+20:51:35 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+20:51:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:51:46 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+20:51:48 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+20:51:57 INFO  : ps7_init is completed.
+20:51:57 INFO  : ps7_post_config is completed.
+20:51:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+20:52:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:52:10 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:06:19 ERROR : Unexpected error while fetching XMD's response: 
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.read(BufferedReader.java:182)
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess$CommandResultsReader.run(XMDJSONProcess.java:332)
+	at java.lang.Thread.run(Thread.java:745)
+21:06:19 ERROR : Zero sized response read from XMD. This indicates a communication error or a programming error.
+21:06:33 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+21:06:34 INFO  : XSDB server has started successfully.
+21:06:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:06:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:06:46 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:06:56 ERROR : Unexpected error while issuing command {"command": "xfpga_isconfigured -cable type xilinx_tcf url TCP:127.0.0.1:3121 "} to XMD: java.net.SocketException: Connection reset by peer: socket write error
+21:06:56 ERROR : Checking FPGA configuration failed..
+21:06:56 ERROR : Unexpected error while launching program.
+com.xilinx.sdk.targetmanager.TMException: 
+	at com.xilinx.sdk.targetmanager.internal.TM.isFPGAConfigured(TM.java:374)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.isFpgaConfigured(XilinxAppLaunchConfigurationDelegate.java:409)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:303)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+21:06:56 ERROR : Unexpected error while issuing command {"command": "xdisconnect 64"} to XMD: java.net.SocketException: Connection reset by peer: socket write error
+21:06:56 ERROR : Disconnect target failed.
+21:07:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:07:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:07:07 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:07:33 ERROR : Unexpected error while issuing command {"command": "xdisconnect 64"} to XMD: java.net.SocketException: Connection reset by peer: socket write error
+21:07:33 ERROR : Disconnect target failed.
+21:07:33 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: 
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+21:08:00 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+21:08:02 INFO  : XSDB server has started successfully.
+21:08:02 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+21:08:02 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+21:08:02 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+21:08:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:08:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:08:45 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:08:54 INFO  : ps7_init is completed.
+21:08:54 INFO  : ps7_post_config is completed.
+21:08:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:26:31 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:52:42 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+21:52:44 INFO  : XSDB server has started successfully.
+21:52:45 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+21:52:45 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+21:52:45 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+21:53:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:53:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+21:53:58 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+21:54:06 INFO  : ps7_init is completed.
+21:54:06 INFO  : ps7_post_config is completed.
+21:54:06 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:58:44 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:34:35 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+09:34:37 INFO  : XSDB server has started successfully.
+09:34:37 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+09:34:37 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+09:34:37 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+09:34:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:34:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:34:56 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:37:03 INFO  : ps7_init is completed.
+09:37:03 INFO  : ps7_post_config is completed.
+09:37:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:39:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:40:57 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:42:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:45:46 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:46:45 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+18:40:16 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\vivado_learing\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+18:40:18 INFO  : XSDB server has started successfully.
+18:40:18 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+18:40:18 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+18:40:18 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+10:51:01 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\finished\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+10:51:03 INFO  : XSDB server has started successfully.
+10:51:04 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+10:51:04 WARN  : Invalid repository path F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0.
+10:51:04 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+10:52:14 INFO  : Refreshed build settings on project test1
+10:53:00 INFO  : Refreshed build settings on project test1
+14:40:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:40:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+14:40:53 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/vivado_learing/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+14:41:18 INFO  : ps7_init is completed.
+14:41:18 INFO  : ps7_post_config is completed.
+14:41:18 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:42:04 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:14:57 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\finished\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+09:14:58 INFO  : XSDB server has started successfully.
+09:14:58 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+09:14:58 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+09:15:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:15:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248686573" && level==0} -index 1' command is executed.
+09:16:00 INFO  : FPGA configured successfully with bitstream "F:/lynn.zheng/finished/Imode_refactoring_lynn/project_Imode_final.sdk/test/design_1_wrapper.bit"
+09:16:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+09:16:59 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:22:22 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\finished\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+09:22:24 INFO  : XSDB server has started successfully.
+09:22:24 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+09:22:24 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.
+09:23:08 INFO  : Launching XSDB server: xsdb.bat -interactive F:\lynn.zheng\finished\Imode_refactoring_lynn\project_Imode_final.sdk\temp_xsdb_launch_script.tcl
+09:23:09 INFO  : XSDB server has started successfully.
+09:23:09 INFO  : Restoring local repository preferences: 
+		 H:\MyXilinx\project_Imode_final\myImode_1.0
+		 F:\lynn.zheng\vivado_learing\project_Imode_final\myImode_1.0
+09:23:09 WARN  : Invalid repository path H:\MyXilinx\project_Imode_final\myImode_1.0.

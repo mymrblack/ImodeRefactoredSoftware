@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="test-bmmFile"/>
+	<item value="Auto Detect" key="test-device"/>
+	<item value="test" key="programfpga.hwplatform"/>
+	<item value="Local" key="test-target"/>
+	<item value="F:\lynn.zheng\finished\Imode_refactoring_lynn\project_Imode_final.sdk\test\design_1_wrapper.bit" key="test-bitFile"/>
+	<item value="false" key="test-partial_bit"/>
+</section>
